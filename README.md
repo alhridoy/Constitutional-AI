@@ -1,7 +1,7 @@
 ## Project Overview
 # ConstitutionalAI for Python Code Generation
   
- This project showcases an example of training and evaluating a language model using the concept of Constitutional AI. Constitutional AI involves aligning AI behavior with a set of predefined ethical guidelines, ensuring that the AI's outputs are consistent with these principles. This project demonstrates an implementation of ConstitutionalAI (or Recursive Language-Assisted Instruction Following, RLAIF) for generating Python code based on natural language instructions. The primary goal is to fine-tune a language model to produce high-quality Python code outputs while adhering to a set of rules or guidelines defined by a "constitution."
+ This project showcases an example of training and evaluating a language model using the concept of Constitutional AI. Constitutional AI involves aligning AI behavior with a set of predefined ethical guidelines, ensuring that the AI's outputs are consistent with these principles. This project demonstrates an implementation of ConstitutionalAI  for generating Python code based on natural language instructions. The primary goal is to fine-tune a language model to produce high-quality Python code outputs while adhering to a set of rules or guidelines defined by a "constitution."
 Dataset
 The dataset used for fine-tuning is the python_code_instructions_18k_alpaca dataset from the Hugging Face Datasets library. It contains 18,000 examples of natural language instructions and their corresponding Python code outputs.
 Approach
